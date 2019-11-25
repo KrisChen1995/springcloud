@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="comchenfeispringcloudconsumerdept80" />
-        <module name="microservicecloud-api" />
         <module name="microservicecloudproviderdept8001" />
-        <module name="comchenfeispringerueka7001" />
+        <module name="comchenfeispringcloudconsumerdept80" />
+        <module name="comchenfeispringclouderueka7001" />
+        <module name="comchenfeispringclouderueka7003" />
+        <module name="comchenfeispringclouderueka7002" />
+        <module name="microservicecloud-api" />
       </profile>
     </annotationProcessing>
   </component>
